@@ -1,6 +1,6 @@
 title:            Simon Kiley
 description:      Simon's GIS stuff
-disqus_shortname: hpstrtheme
+disqus_shortname: 
 reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
@@ -25,7 +25,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
