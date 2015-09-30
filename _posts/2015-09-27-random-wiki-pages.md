@@ -3,14 +3,12 @@ layout: post
 title: Learn about Countries!
 description: "This script opens a random country's wikipedia page."
 modified: 2015-09-15
-tags: [sample post, other tag]
+tags: [wiki, wikipedia, countries, python]
 image:
   feature:
   credit:
   creditlink: 
 ---
-##Learn about a new country everyday!
-
 This python script selects a random country from a list of countries in [countries.txt](https://gist.github.com/marijn/396531#file-countries-txt) (compiled by Github user [marijn](https://github.com/marijn)) and opens it in your default browser.
 
 Here is the short and simple code:
