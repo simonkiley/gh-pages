@@ -15,8 +15,8 @@ Slider test
 <link href="{{ site.url }}/assets/css/twentytwenty.css" rel="stylesheet" type="text/css" />
 
 <div class="twentytwenty-container">
-	<img src="img/test_1.PNG" />
-    <img src="img/test_2.png" />
+	<img src="/images/test_1.png" />
+    <img src="/images/test_2.png" />
 </div>
 
 End of post
