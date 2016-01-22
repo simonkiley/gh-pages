@@ -13,13 +13,16 @@ image:
 
 Slider test
 
-
-
 <div class="twentytwenty-container">
 	<img src="{{ site.url }}/images/test_1.png" />
 	<img src="{{ site.url }}/images/test_2.png" />
 </div>
 
+
+test 1 images:
+
+<img src="/images/test_1.png" />
+<img src="/images/test_2.png" />
 
 test 2 images:
 
