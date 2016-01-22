@@ -10,6 +10,10 @@ image:
   creditlink: 
 ---
 <link href="{{ site.url }}/assets/css/twentytwenty.css" rel="stylesheet" type="text/css" />
+<script src="{{ site.url }}/assets/js/jquery-2.1.0.min.js" type="text/javascript"></script>
+<script src="{{ site.url }}/assets/js/jquery.event.move.js" type="text/javascript"></script>
+<script src="{{ site.url }}/assets/js/jquery.twentytwenty.js" type="text/javascript"></script>
+
 
 Slider test
 
@@ -19,12 +23,8 @@ Slider test
 </div>
 
 
-test 1 images:
 
-<img src="/images/test_1.png" />
-<img src="/images/test_2.png" />
-
-test 2 images:
+just 2 images:
 
 <img src="{{ site.url }}/images/test_1.png" />
 <img src="{{ site.url }}/images/test_2.png" />
