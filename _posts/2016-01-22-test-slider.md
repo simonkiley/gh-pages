@@ -15,6 +15,12 @@ image:
 <script src="{{ site.url }}/assets/js/jquery.event.move.js" type="text/javascript"></script>
 <script src="{{ site.url }}/assets/js/jquery.twentytwenty.js" type="text/javascript"></script>
 
+<script>
+    $(window).load(function(){
+      $(".twentytwenty-container[data-orientation!='vertical']").twentytwenty({default_offset_pct: 0.7});
+      $(".twentytwenty-container[data-orientation='vertical']").twentytwenty({default_offset_pct: 0.3, orientation: 'vertical'});
+    });
+</script>
 
 Slider test
 
