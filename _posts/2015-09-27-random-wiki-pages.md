@@ -30,11 +30,9 @@ def main():
 
 if __name__ == '__main__':
    main()
-  
 ```
 
 Check it out on [Github](https://github.com/simonkiley/random-wiki-countries)
 
-aa
 
 
