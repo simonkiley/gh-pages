@@ -21,7 +21,7 @@ The raster data covers Canada below the 60th parallel and has a 30m cell size, c
 </figure>
 <figure class="third">
 	<a href="{{ site.url }}/images/water_below60.png"><img src="{{ site.url }}/images/thumbs/water_thumb.png" alt=""></a>
-	<a href="{{ site.url }}/images/forests_below60.png.png"><img src="{{ site.url }}/images/thumbs/forests_thumb.png" alt=""></a>
+	<a href="{{ site.url }}/images/forests_below60.png"><img src="{{ site.url }}/images/thumbs/forests_thumb.png" alt=""></a>
 	<a href="{{ site.url }}/images/grass_below60.png"><img src="{{ site.url }}/images/thumbs/grass_thumb.png" alt=""></a>
 </figure>
 
