@@ -13,7 +13,7 @@ url: //simonkiley.github.io/gh-pages
 owner:
   name:           Simon Kiley
   avatar:         avatar.jpg
-  bio:            "Simon is from Ottawa, Ontario and loves GIS, bouldering, and playing around with computers."
+  bio:            "Simon is from Ottawa, Ontario and loves playing around with computers."
   email:          simon.kiley.gis@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -31,7 +31,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:UA-69917627-1   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
