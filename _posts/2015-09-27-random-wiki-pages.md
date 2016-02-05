@@ -15,21 +15,21 @@ This python script selects a random country from a list of countries in [countri
 
 Here is the short and simple code:
 
-```python
+```Python
  import webbrowser
  import random
-
+ 
  def main():
 	 with open("countries.txt") as f:
-		 countries = f.readlines() # 241 countries
-		 random_list_value = random.randint(0, 241)
+		countries = f.readlines() # 241 countries
+		random_list_value = random.randint(0, 241)
 
-		 country_name = countries[random_list_value][3:]
-		 country_name = country_name.replace(" ", "_")
-		 webbrowser.open_new("https://en.wikipedia.org/wiki/"+country_name)
+		country_name = countries[random_list_value][3:]
+		country_name = country_name.replace(" ", "_")
+		webbrowser.open_new("https://en.wikipedia.org/wiki/"+country_name)
 
  if __name__ == '__main__':
-	 main()
+	main()
 ```
 
 Check it out on [Github](https://github.com/simonkiley/random-wiki-countries)
