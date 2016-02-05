@@ -15,7 +15,7 @@ This python script selects a random country from a list of countries in [countri
 
 Here is the short and simple code:
 
-```Python
+```python
  import webbrowser
  import random
  
