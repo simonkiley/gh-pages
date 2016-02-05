@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Canada Below 60N
-description: "The Canada Below 60N project displays Canada's land use in a minimalist mapping style."
+title: Canada Below 60
+description: "The Canada Below 60 project displays Canada's land use in a minimalist mapping style."
 modified: 2016-02-06
 tags: [canada, mapping, minimalist]
 image:
