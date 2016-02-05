@@ -15,10 +15,3 @@ The raster data covers Canada below the 60th parallel and has a 30m cell size, c
 
 Click on the thumbnails below to view the full size images. 
 
-<figure class="third">
-	<a href="{{ site.url }}/images/urban_below60.png"><img src="{{ site.url }}/images/thumbs/urban_thumb.png" alt=""></a>
-	<a href="{{ site.url }}/images/cropland_below60.png"><img src="{{ site.url }}/images/thumbs/cropland_thumb.png" alt=""></a>
-	<a href="{{ site.url }}/images/wetlands_below60.png"><img src="{{ site.url }}/images/thumbs/wetlands_thumb.png" alt=""></a>
-	<figcaption>Caption describing these three images.</figcaption>
-</figure>
-
