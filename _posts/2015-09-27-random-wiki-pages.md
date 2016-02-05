@@ -15,7 +15,7 @@ This python script selects a random country from a list of countries in [countri
 
 Here is the short and simple code:
 
-```
+{% highlight python %}
  import webbrowser
  import random
  
@@ -30,7 +30,7 @@ Here is the short and simple code:
 
  if __name__ == '__main__':
 	main()
-```
+{% endhighlight %}
 
 Check it out on [Github](https://github.com/simonkiley/random-wiki-countries)
 
